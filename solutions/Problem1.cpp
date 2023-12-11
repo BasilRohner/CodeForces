@@ -2,9 +2,9 @@
 
 // For the problem description refer to:
 // https://codeforces.com/problemset/problem/1907/A
+// Rename to main to compile and see that this is the only main fnc:
 
-
-int main() {
+int problem1() {
 
     std::string cases;
     std::cin >> cases;

@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(CodeForces
         solutions/Problem1.cpp
-        solutions/Problem2.cpp)
+        solutions/Problem2.cpp
+        solutions/Problem3.cpp
+        solutions/Problem4.cpp)
